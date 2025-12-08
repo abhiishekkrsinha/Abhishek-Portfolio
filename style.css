@@ -61,7 +61,7 @@ nav .right a span{
     align-items: center;
     padding: 0 15px;
     margin: 50px 0;
-   gap: 5px;
+    gap: 5px;
 
 }
 .hero-section .text{
@@ -193,9 +193,13 @@ nav .right a span{
 
 @media(max-width:700px){
     .hero-section{
-        flex-direction: column reverse;
+        flex-direction: column-reverse;
         text-align: center;
-        
+        align-items: center;
+    }
+    .hero-section .image{
+        display: block;
+        margin: 0 auto;
     }
     
 }
