@@ -105,7 +105,7 @@ nav .right a span{
 }
 /* section 2 : skills */
 .skills{
-    padding: 0 25px;
+    padding: 10px 25px;
     margin-bottom: 30px;
     text-align: left;
     color: snow;
@@ -149,7 +149,7 @@ box-shadow:0 4px 12px rgba(0,0,0,0.4);
 }
 .projects{
    
-    padding: 0 15px;
+    padding: 10px 15px;
     margin-bottom: 50px;
     gap: 10px;
     color: snow;
@@ -181,7 +181,7 @@ box-shadow:0 4px 12px rgba(0,0,0,0.4);
 /* contact section */
 .contact{
     color: snow;
-    padding: 0 15px;
+    padding: 10px 15px;
     margin-bottom: 40px;
     background:#161b22;
 padding-left: 0 20px;
